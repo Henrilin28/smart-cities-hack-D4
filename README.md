@@ -6,4 +6,5 @@ Team 4D.
 
 [Slack](https://smartcitieshack.slack.com/)
 
-[Hacka-wide GitHub](https://github.com/WiMLDS/smart_cities/). 
+[Hack-wide GitHub](https://github.com/WiMLDS/smart_cities/). 
+
